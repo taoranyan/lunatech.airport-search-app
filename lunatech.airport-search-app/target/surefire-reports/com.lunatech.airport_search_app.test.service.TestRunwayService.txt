@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.lunatech.airport_search_app.test.service.TestRunwayService
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.703 sec
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.689 sec

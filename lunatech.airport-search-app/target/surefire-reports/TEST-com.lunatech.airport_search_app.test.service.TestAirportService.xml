@@ -62,10 +62,10 @@
     <property name="sun.cpu.isalist" value=""/>
   </properties>
   <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestGetAirportByCountry" time="0.134"/>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="deleteMocks" time="0.209"/>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestGetAirportById" time="0.097"/>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestGetAirportByCountryCode" time="0.136"/>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestGetAirportByCountryName" time="0.115"/>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestGetALlAirports" time="0.089"/>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestdumpAirportFromCSV" time="0.075"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="deleteMocks" time="0.25"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestGetAirportById" time="0.088"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestGetAirportByCountryCode" time="0.108"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestGetAirportByCountryName" time="0.114"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestGetALlAirports" time="0.095"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestAirportService" name="TestdumpAirportFromCSV" time="0.066"/>
 </testsuite>

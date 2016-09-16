@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="com.lunatech.airport_search_app.test.service.TestCountryService" time="0.442" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="com.lunatech.airport_search_app.test.service.TestCountryService" time="0.458" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib"/>
@@ -61,9 +61,9 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestCountryService" name="TestGetCountryById" time="0.112"/>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestCountryService" name="TestDumpCountryFromCSV" time="0.067"/>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestCountryService" name="TestGetCountryByCode" time="0.086"/>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestCountryService" name="TestGetCountryByName" time="0.093"/>
-  <testcase classname="com.lunatech.airport_search_app.test.service.TestCountryService" name="TestGetAllCountries" time="0.084"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestCountryService" name="TestGetCountryById" time="0.106"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestCountryService" name="TestDumpCountryFromCSV" time="0.087"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestCountryService" name="TestGetCountryByCode" time="0.088"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestCountryService" name="TestGetCountryByName" time="0.089"/>
+  <testcase classname="com.lunatech.airport_search_app.test.service.TestCountryService" name="TestGetAllCountries" time="0.088"/>
 </testsuite>
