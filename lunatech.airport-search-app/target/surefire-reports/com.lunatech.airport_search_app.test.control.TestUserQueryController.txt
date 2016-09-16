@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lunatech.airport_search_app.test.control.TestUserQueryController
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.183 sec
